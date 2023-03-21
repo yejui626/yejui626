@@ -24,8 +24,14 @@
 
 
 ## 🔔 𝙼𝚢 Past Projects
-
-
+<li> <a href="https://github.com/yejui626/Python-big-data/tree/main/Assignment%201/Boboiboy" target="_blank" rel="noreferrer">
+  EDA on Car Sales Data </a> </li>
+<li> <a href="https://github.com/yejui626/Python-big-data/tree/main/Project/SDS" target="_blank" rel="noreferrer">
+  Analysis on Amazon Books Review </a> </li>
+<li> <a href="https://github.com/yejui626/Python_EDA/tree/main/Malaysia%20EDA/Boboiboy" target="_blank" rel="noreferrer">
+  EDA ON Property Listings in Kuala Lumpur </a> </li>
+<li> <a href="https://github.com/yejui626/python-web/tree/main/scrapy/SDS" target="_blank" rel="noreferrer">
+  Web Scraping on Book Depository using Scrapy </a> </li>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/yejui626?template=classic&config.timezone=Asia%2FKuala_Lumpur)
