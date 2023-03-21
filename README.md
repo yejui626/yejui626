@@ -43,4 +43,5 @@
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/yejui626?template=classic&config.timezone=Asia%2FKuala_Lumpur)
-<img src="https://github-readme-stats.vercel.app/api?username=yejui626&count_private=true&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yejui626&count_private=true&show_icons=true&theme=tokyonight"/>
+
