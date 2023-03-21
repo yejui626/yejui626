@@ -23,10 +23,8 @@
 
 
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--RECENT_ACTIVITY:start-->
+## 🔔 𝙼𝚢 Past Projects
 
-<!--RECENT_ACTIVITY:last_update-->
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
