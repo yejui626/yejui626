@@ -34,7 +34,7 @@
   E-commerce ERP for TSK online shopping </a> </li>
 
 ### 🧮 Data Science/ Data Engineering Related
-<li> <a href="https://github.com/yejui626/VanguardPro" target="_blank" rel="noreferrer">
+<li> <a href="https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/submission/Gadgeteen" target="_blank" rel="noreferrer">
   ChatGPT Sentiment Analysis with Django </a> </li>
 <li> <a href="https://github.com/yejui626/Python-big-data/tree/main/Assignment%201/Boboiboy" target="_blank" rel="noreferrer">
   EDA on Car Sales Data </a> </li>
