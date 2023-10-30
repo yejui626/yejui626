@@ -24,6 +24,18 @@
 
 
 ## 🔔 𝙼𝚢 Past Projects
+
+### ⚙️ System Development Related
+<li> <a href="https://github.com/yejui626/QMS/" target="_blank" rel="noreferrer">
+  Quotation Management System for Powerec </a> </li>
+<li> <a href="https://github.com/yejui626/VanguardPro" target="_blank" rel="noreferrer">
+  Room & Rental Management System for Akmal Rentals </a> </li>
+<li> <a href="https://github.com/yejui626/FIRST_EIS" target="_blank" rel="noreferrer">
+  E-commerce ERP for TSK online shopping </a> </li>
+
+### 🧮 Data Science/ Data Engineering Related
+<li> <a href="https://github.com/yejui626/VanguardPro" target="_blank" rel="noreferrer">
+  ChatGPT Sentiment Analysis with Django </a> </li>
 <li> <a href="https://github.com/yejui626/Python-big-data/tree/main/Assignment%201/Boboiboy" target="_blank" rel="noreferrer">
   EDA on Car Sales Data </a> </li>
 <li> <a href="https://github.com/yejui626/Python-big-data/tree/main/Project/SDS" target="_blank" rel="noreferrer">
